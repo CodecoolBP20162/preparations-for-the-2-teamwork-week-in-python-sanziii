@@ -4,7 +4,7 @@ import unittest
 
 
 def IsOdd(n):
-    return
+    return % 2
 
 # Here's our "unit tests".
 
